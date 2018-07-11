@@ -1,0 +1,198 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf400
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;\f1\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\b\fs24 \cf0 garlicMustardEarthworm_prunseCot_to_fraxam_9April2018\
+
+\b0 This spreadsheet includes all of the abundance data of all the species at the sites and treatments where the earthworms were sampled during the summer of 2017. Other species with abundances listed as \'930\'94 are from other sites in the full eradication experiment. This data was collated after we obtained new abundance data where values previously listed for 
+\i Prunus 
+\i0 cotyledons were ID\'92ed as 
+\i Fraxinus americana 
+\i0 seedlings (fraxam). Shannon diversity, total stem diversity, earthworm biomass, fern abundance, for abundance, grass abundance,  non native plant abundance, and woody plant abundance values are also included in this data sheet.\
+\
+
+\b Columns:	\
+plotID: 
+\b0 Unique ID for each plot for each year of data. Year-season-site-replicate#\
+\
+
+\b year:
+\b0  Year data was collected. Year includes only 2017 data.\
+\
+
+\b site: 
+\b0 Site where data was collected. Factor with 2 levels. See site abbreviation definitions and site treatments below\
+\
+
+\b treatment:
+\b0  All treatments. Factor with 3 levels (Invaded, Eradicated, Control).\
+\
+
+\b replicate: 
+\b0 Replicate number for the treatment at the site. Each treatment replicated 3 times per site.\
+ \
+
+\b Species abbreviations:\
+
+\b0 acerpe - 
+\i Acer pensylvanicum 
+\b \
+
+\i0\b0 acerru - 
+\i Acer rubrum
+\i0 \
+acersa - 
+\i Acer palmatum
+\i0 \
+actapa - 
+\i Acer pachypoda
+\i0 \
+allipe_1 -
+\i Alliaria petiolata
+\i0  (1st year)\
+allipe_2 -
+\i Alliaria petiolata 
+\i0 (2nd year)\
+allipe_total - 
+\i Alliaria petiolata 
+\i0 (total)\
+aristr - 
+\i Arisaema triphyllum\
+
+\i0 berbth - 
+\i Berberis thunbergii\
+
+\i0 betual - 
+\i Betula allegheniensis
+\i0 \
+careap - 
+\i Carex appalachica
+\i0 \
+carela - 
+\i Carex laxiflora
+\i0 \
+caresp - 
+\i Carex
+\i0  sp.\
+carpca - 
+\i Carpinus caroliniana
+\i0 \
+caryco - 
+\i Carya cordiformis
+\i0 \
+dennpu - 
+\i Dennstaedtia punctilobula
+\i0 \
+dryoca - 
+\i Dryopteris carthusiana
+\i0 \
+erytam - 
+\i Erythronium americanum\
+
+\i0 euonal - 
+\i Euonymus alatus
+\i0 \
+eurydi - 
+\i Eurybia divaricata
+\i0 \
+fraxam - 
+\i Fraxinus americana
+\i0 \
+galitr - 
+\i Galium triflorum
+\i0 \
+impaca - 
+\i Impatiens capensis
+\i0 \
+maiaca - 
+\i Maianthemum canadense
+\i0 \
+maiara - 
+\i Maianthemum racemosum
+\i0 \
+onosce - 
+\i Onoclea sensibilis
+\i0 \
+ostrvi - 
+\i Ostrya virginiana
+\i0 \
+partqu - 
+\i Parthenocissus quinquefolia
+\i0 \
+polyac - 
+\i Polystichum acrostichoides
+\i0 \
+polybi - 
+\i Polygonatum biflorum
+\i0 \
+prunse - 
+\i Prunus serotina
+\i0 \
+querru - 
+\i Quercus rubra
+\i0 \
+ranuab - 
+\i Ranunculus abortivus\
+
+\i0 Ribela - 
+\i  Ribes lacustre
+\i0 \
+rubual - 
+\i Rubus allegheniensis\
+
+\i0 solicae - 
+\i Solidago caesia
+\i0 \
+toxira - 
+\i Toxicodendron radicans\
+
+\i0 tiliam  - 
+\i Tilia americana
+\i0 \
+violsp - 
+\i Violet
+\i0  sp.\
+\
+
+\b nativeShannon
+\b0 : Shannon diversity index of the native species in that particular plot.\
+\
+
+\b totalNativeStem: 
+\b0 Total number of stems summed across that particular plot for all native species.\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f1 \cf0 \
+
+\b Fern:
+\b0  The abundance of ferns at the plot level.\
+\
+
+\b Forb:
+\b0  The abundance of forms at the plot level.\
+\
+
+\b Grass:
+\b0  The abundance of grasses at the plot level.\
+\
+
+\b NonNative:
+\b0  The abundance of nonnatives at the plot level.\
+\
+
+\b Woody: 
+\b0 The abundance of woody plants at the plot level.\
+\
+
+\b mass: 
+\b0 The value of earthworm biomass (g) at the plot level.\
+\
+
+\b Site abbreviations:\
+
+\b0 HF = Harvard Forest\
+MC = McLennan Reservation\
+}

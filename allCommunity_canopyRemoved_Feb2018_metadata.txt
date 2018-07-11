@@ -1,0 +1,1687 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf400
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red191\green191\blue191;}
+{\*\expandedcolortbl;;\csgray\c79525;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\b\fs24 \cf0 allCommunity_canopyRemoved_Feb2018\
+
+\b0 This spreadsheet includes all of the abundance data of all the species at the sites and treatments where the earthworms were sampled and those where they weren\'92t since the eradication experiment began in 2014. Other species with abundances listed as \'930\'94 are from other sites in the full eradication experiment. This data was used to create the NMDS figure in the earthworm manuscript.  \
+\
+
+\b Columns:	\
+plotID: 
+\b0 Unique ID for each plot for each year of data. Year-season-site-replicate#\
+\
+
+\b site: 
+\b0 Site where data was collected. Factor with 2 levels. See site abbreviation definitions and site treatments below\
+\
+
+\b treatment:
+\b0  All treatments. Factor with 3 levels (Invaded, Eradicated, Control).\
+\
+
+\b year:
+\b0  Year data was collected. Year includes only 2014, 2015, 2016, and 2017.\
+ \
+
+\b Species abbreviation:\
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+
+\b0 \cf0 acerni\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Acer nigrum\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 acerpa\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Acer palmatum\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 acerpe\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Acer pensylvanicum\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 acerpl\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Acer platanoides\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 acerru\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Acer rubrum\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 acersa\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Acer saccharum\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 acersi\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Acer saccharinum\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 acersp\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Acer sp.\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 actapa\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Actaea pachypoda\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 actara\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Actaea racemosa\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 actaru\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Actaea rubra\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 actasp\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Actaea sp.\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 ageral\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Ageratina altissima\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 allipe_1\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Alliaria petiolata\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 allipe_2\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Alliaria petiolata\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 allipe_total\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Alliaria petiolata\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 allisp\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Allium sp.\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 allist\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Allium stellatum\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 amphbr\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Amphicarpaea bracteata\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 aristr\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Arisaema triphyllum\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 aronme\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Aronia melanocarpa\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 astedi\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Aster divaricatus\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 astesp\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Aster sp.\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 athyfi\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Athyrium angustum\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 athyth\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Athyrium thelypterioides\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 berbth\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Berberis thunbergii\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 betual\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Betula allegheniensis\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 betule\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Betula lenta\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 betupa\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Betula papyrifera\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 betusp\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Betula sp\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 brassp\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Brassisca sp.\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 cardfl\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Cardamine flexuosa\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 careap\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Carex appalachica\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 carebe\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Carex bebbii\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 carebr\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Carex bromoides\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 carede\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Carex debilis\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 caregr\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Carex gracillima\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 carela\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Carex laxiflora\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 carelu\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Carex lurida\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 carepa\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Carex pallescens\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 carepe\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Carex pensylvanica\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 careplan\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Carex plantaginea\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 careplat\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Carex platyphylla\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 caresp\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Carex sp.\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 caresw\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Carex swanii\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 carpca\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Carpinus caroliniana\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 caryco\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Carya cordiformis\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 carygl\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Carya glabra\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 caryov\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Carya ovata\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 carysp\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Carya sp.\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 celaor\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Celastrus orbiculatus\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 chelma\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Chelidonium majus\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 circlu\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Circaea lutetiana\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 convma\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Convallaria majalis\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 cornal\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Cornus alternifolia\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 cornru\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Cornus rugosa\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 dendhi\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Dendrolycopodium hickeyi\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 dennpu\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Dennstaedtia punctilobula\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 depaac\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Deparia acrostichoides\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 dryoca\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Dryopteris carthusiana\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 dryosp\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Dryopteris sp\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 equiar\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Equisetum arvense\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 equipr\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Equisetum pratense\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 equisy\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Equisetum sylvaticum\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 erytam\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Erythronium americanum\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 erytsp\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Erythronium sp.\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 euonal\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Euonymus alatus\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 eurydi\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Eurybia divaricata\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 eurysp\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Eurybia sp.\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 fagugr\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Fagus grandifolia\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 fragve\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Fragaria vesca\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 fragvi\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Fragaria virginiana \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 franal\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Frangula alnus\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 fraxam\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Fraxinus americana\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 fraxni\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Fraxinus nigra\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 fraxpe\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Fraxinus pensylvanicum\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 fraxsp\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Fraxinus sp.\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 galiap\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Galium aparine\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 galias\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Galium asprellum\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 galipa\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Galium palustre\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 galisp\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Galium sp.\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 galitr\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Galium triflorum\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 gerama\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Geranium maculatum\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 geumca\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Geum canadense\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 geumfr\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Geum fragarioides\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 geumla\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Geum laciniatum\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 geumsp\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Geum sp.\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 hamavi\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Hamamelis virginiana\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 ilexmu\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Ilex mucronata\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 ilexve\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Ilex verticillata\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 impaca\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Impatiens capensis\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 juglci\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Juglans cinerea\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 juglni\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Juglans nigra\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 junico\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Juniperus communis\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 lactca\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Lactuca canadensis\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 lactsa\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Lactuca sativa\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 lactsp\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Lactuca sp.\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 lindbe\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Lindera benzoin\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 liritu\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Liriodendron tulipifera\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 lonija\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Lonicera japonica\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 lonisp\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Lonicera\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 lonixy\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Lonicera xylosteum\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 luzumu\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Luzula Multiflora\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 lycosp\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Lycopodiaceae\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 lysibo\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Lysimachia borealis\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 maiaca\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Maianthemum canadense\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 maiara\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Maianthemum racemosum\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 maiatr\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Maianthemum trifolium\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 malusp\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Malus\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 malusp\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Malus sp.\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 micrvi\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Microstegium vimineum\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 mitcre\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Mitchella repens\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 nabaalb\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Nabalus albus\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 nabaalt\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Nabalus altissimus\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 nabase\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Nabalus serpentarius\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 nemomu\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Nemopanthus mucronata\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 onocse\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Onoclea sensibilis\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 osmuci\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Osmunda cinnamomea\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 ostrvi\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Ostrya virginiana\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 othosi\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Othocallis siberica\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 oxalsp\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Oxalis spp.\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 parano\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Parathelypteris noveboracensis\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 partqu\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Parthenocissus quinquefolia\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 pershy\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Persicaria hydropiperoides\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 phytam\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Phytolacca americana\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 phytsp\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Phytolacca sp.\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 pilepu\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Pilea pumila\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 pinust\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Pinus strobus\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 planma\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Plantago major\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 plansp\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Plantago sp.\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 polyac\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Polystichum acrostichoides\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 polybi\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Polygonatum biflorum\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 polyhy\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Polygonum hydropiperoides\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 potesi\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Potentilla simplex\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 potesp\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Potentilla sp.\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 prense\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Prenanthes serpentaria\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 prunpe\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Prunus pensylvanica\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 prunse\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Prunus serotina\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 prunsp\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Prunus sp.\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 prunvi\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Prunus virginiana\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 queral\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Quercus alba\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 querru\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Quercus rubra\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 querve\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Quercus velutina\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 ranuab\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Ranunculus abortivus\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 ranuhi\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Ranunculus hispidus\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 ranusp\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Ranunculus sp.\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 rhamal\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Rhamnus alnifolia\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 rhamca\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Rhamnus cathartica\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 rhamfr\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Rhamnus frangula\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 rhamsp\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Rhamnus sp.\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 ribela\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Ribes lacustre\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 ribesp\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Ribes sp.\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 robips\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Robinia pseudoacacia\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 rosamu\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Rosa multiflora\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 rosasp\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Rosa sp.\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 rubual\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Rubus allegheniensis\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 rubuda\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Rubus dalibarda\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 rubufl\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Rubus flagellaris\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 rubuhi\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Rubus hispidus\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 rubuid\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Rubus idaeus\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 rubusp\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Rubus sp.\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 salioc\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Salix occidentalis\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 sambsp\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Sambucus sp.\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 sangca\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Sanguinaria canadensis\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 scirat\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Scirpus atrovirens\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 solicae\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Solidago caesia\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 solican\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Solidago canadensis\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 solifl\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Solidago flexicaulis\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 solisp\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Solidago sp.\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 sorbam\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Sorbus americana\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 spirsp\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Spiraea sp.\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 swidal\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Swida alternifolia\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 swidru\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Swida rugosa\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 sympal\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Symphoricarpos albus\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 thelno\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Thelypteris noveboracensis\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 thujoc\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Thuja occidentalis\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 tiarco\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Tiarella cordifolia\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 tiliam\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Tilia americana\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 toxira\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Toxicodendron radicans\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 triebo\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Trientalis borealis\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 trilal\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Trillium albidum\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 trilce\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Trillium cernuum\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 trilsp\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Trillium sp.\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 tsugca\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Tsuga canadensis\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 tussfa\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Tussilago farfara\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 ulmuam\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Ulmus americana\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 ulmuru\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Ulmus rubra\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 vaccan\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Vaccinium angustifolium\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 vibuac\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Viburnum acerifolium\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 vibual\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Viburnum alnifolium\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 vibula\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Viburnum lantanoides\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 violca\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Viola canadensis\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 violpa\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Viola palmata\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 violpu\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Viola pubescens\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 violso\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Viola sororia\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 violsp\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Violet sp.\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 vitiri\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Vitis riparia\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 waldfr\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Waldsteinia fragarioides\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Care_BR1\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Carex sp.\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Care_BR2\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Carex sp.\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Care_WP2\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Carex sp.\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth7920\trftsWidth3 \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalb \clshdrawnil \clwWidth2300\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx4320
+\clvertalb \clshdrawnil \clwWidth5620\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl100 \clpadr100 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Prunse_cot\cell 
+\pard\intbl\itap1\pardeftab720\ri0\partightenfactor0
+\cf0 Prunus cotyledon\cell \lastrow\row
+\pard\pardeftab720\ri0\partightenfactor0
+\cf0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\b \cf0 nativeShannon
+\b0 : Shannon diversity index of the native species in that particular plot.\
+\
+
+\b totalNativeStem: 
+\b0 Total number of stems summed across that particular plot for all native species.\
+\
+
+\b Fern:
+\b0  The abundance of ferns at the plot level.\
+\
+
+\b Forb:
+\b0  The abundance of forms at the plot level.\
+\
+
+\b Grass:
+\b0  The abundance of grasses at the plot level.\
+\
+
+\b NonNative:
+\b0  The abundance of nonnatives at the plot level.\
+\
+
+\b Woody: 
+\b0 The abundance of woody plants at the plot level.\
+\
+
+\b mass: 
+\b0 The value of earthworm biomass (g) at the plot level.\
+\
+
+\b Site abbreviations:\
+
+\b0 HF = Harvard Forest\
+MC = McLennan Reservation}

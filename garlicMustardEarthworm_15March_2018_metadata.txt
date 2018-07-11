@@ -1,0 +1,112 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;\f1\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww8580\viewh7940\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\b\fs24 \cf0 garlicMustardEarthworm_15March_2018\
+
+\b0 \
+This spreadsheet includes all of the abundance data of all the species at the sites and treatments where the earthworms were sampled during the summer of 2017. Shannon diversity, total stem diversity, earthworm biomass, fern abundance, for abundance, grass abundance,  non native plant abundance, and woody plant abundance values are also included in this data sheet.\
+\
+
+\b Columns:	\
+
+\b0 plot_ID: Unique ID for each plot for each year of data. Year-season-site-replicate#\
+\
+
+\b year:
+\b0  Year data was collected. Continuous format of year. Years include 2014, 2015, 2016, 2017.\
+\
+
+\b site: 
+\b0 Site where data was collected. Factor with 2 levels. See site abbreviation definitions and site treatments below\
+\
+
+\b Treatment:
+\b0  All treatments. Factor with 3 levels (Invaded, Eradicated, Control).\
+\
+
+\b replicate: 
+\b0 Replicate number for the treatment at the site. Each treatment replicated 3 times per site.\
+ \
+
+\b Species abbreviations:\
+
+\b0 acerru - Acer rubrum\
+acersa - Acer palmatum\
+actapa - Acer pachypoda\
+allipe_1 -Alliaria petiolata (1st year)\
+allipe_2 -Alliaria petiolata (2nd year)\
+allipe_total - Alliaria petiolata (total)\
+aristr - Arisaema triphyllum\
+betual - Betula allegheniensis\
+careap - Carex appalachica\
+carela - Carex laxiflora\
+caresp - Carex sp.\
+carpca - Carpinus caroliniana\
+caryco - Carya cordiformis\
+dennpu - Dennstaedtia punctilobula\
+dryoca - Dryopteris carthusiana\
+erytam - Erythronium americanum\
+eurydi - Eurybia divaricata\
+fraxam - Fraxinus americana\
+galitr - Galium triflorum\
+impaca - Impatiens capensis\
+maiaca - Maianthemum canadense\
+maiara - Maianthemum racemosum\
+onosce - Onoclea sensibilis\
+ostrvi - Ostrya virginiana\
+partqu - Parthenocissus quinquefolia\
+polyac - Polystichum acrostichoides\
+polybi - Polygonatum biflorum\
+prunse - Prunus serotina\
+prunse_cot - Prunus cotyledon\
+querru - Quercus rubra\
+ranuab - Ranunculus abortivus\
+rubual - Rubus allegheniensis\
+solicae - Solidago caesia\
+toxira - Toxicodendron radicans\
+violsp - Violet sp.\
+\
+
+\b shannon
+\b0 : Shannon diversity index of the native species in that particular plot.\
+\
+
+\b totalStem: 
+\b0 Total number of stems summed across that particular plot for all native species.\
+
+\f1 \
+
+\b mass:
+\b0  Earthworm biomass (g).\
+\
+
+\b Fern:
+\b0  The abundance of ferns at the plot level.\
+\
+
+\b Forb:
+\b0  The abundance of forms at the plot level.\
+\
+
+\b Grass:
+\b0  The abundance of grasses at the plot level.\
+\
+
+\b NonNative:
+\b0  The abundance of nonnatives at the plot level.\
+\
+
+\b Woody: 
+\b0 The abundance of woody plants at the plot level.\
+\
+\
+
+\b Site abbreviations:\
+
+\b0 HF = Harvard Forest\
+MC = McLennan Reservation\
+}
